@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[椰子大叔心中的异次元空间]]></title>
+  <link href="http://yezidashu.github.com/atom.xml" rel="self"/>
+  <link href="http://yezidashu.github.com/"/>
+  <updated>2013-02-22T21:21:21+08:00</updated>
+  <id>http://yezidashu.github.com/</id>
+  <author>
+    <name><![CDATA[Mr.Coconut]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://yezidashu.github.com/blog/2013/02/22/test/"/>
+    <updated>2013-02-22T21:14:00+08:00</updated>
+    <id>http://yezidashu.github.com/blog/2013/02/22/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
