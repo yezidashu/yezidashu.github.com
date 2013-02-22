@@ -4,7 +4,7 @@
   <title><![CDATA[椰子大叔心中的异次元空间]]></title>
   <link href="http://yezidashu.github.com/atom.xml" rel="self"/>
   <link href="http://yezidashu.github.com/"/>
-  <updated>2013-02-22T22:06:33+08:00</updated>
+  <updated>2013-02-22T22:12:58+08:00</updated>
   <id>http://yezidashu.github.com/</id>
   <author>
     <name><![CDATA[Mr.Coconut]]></name>
@@ -14,20 +14,28 @@
 
   
   <entry>
-    <title type="html"><![CDATA[again]]></title>
-    <link href="http://yezidashu.github.com/blog/2013/02/22/again/"/>
-    <updated>2013-02-22T21:31:00+08:00</updated>
-    <id>http://yezidashu.github.com/blog/2013/02/22/again</id>
-    <content type="html"><![CDATA[<h1>I&#8217;m afraid that it could only be used in English.</h1>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Test]]></title>
     <link href="http://yezidashu.github.com/blog/2013/02/22/test/"/>
     <updated>2013-02-22T21:14:00+08:00</updated>
     <id>http://yezidashu.github.com/blog/2013/02/22/test</id>
     <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Again]]></title>
+    <link href="http://yezidashu.github.com/blog/2013/02/22/again/"/>
+    <updated>2013-02-22T00:00:00+08:00</updated>
+    <id>http://yezidashu.github.com/blog/2013/02/22/again</id>
+    <content type="html"><![CDATA[<p>﻿&#8212;
+layout: post
+title: &#8220;again&#8221;
+date: 2013-02-22 21:31
+comments: true</p>
+
+<h2>categories: </h2>
+
+<h1>再来试试中文~</h1>
 ]]></content>
   </entry>
   
