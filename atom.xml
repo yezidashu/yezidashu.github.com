@@ -4,7 +4,7 @@
   <title><![CDATA[椰子大叔心中的异次元空间]]></title>
   <link href="http://yezidashu.github.com/atom.xml" rel="self"/>
   <link href="http://yezidashu.github.com/"/>
-  <updated>2013-02-22T21:21:21+08:00</updated>
+  <updated>2013-02-22T21:32:59+08:00</updated>
   <id>http://yezidashu.github.com/</id>
   <author>
     <name><![CDATA[Mr.Coconut]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[again]]></title>
+    <link href="http://yezidashu.github.com/blog/2013/02/22/again/"/>
+    <updated>2013-02-22T21:31:00+08:00</updated>
+    <id>http://yezidashu.github.com/blog/2013/02/22/again</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test]]></title>
