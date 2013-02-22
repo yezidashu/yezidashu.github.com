@@ -4,7 +4,7 @@
   <title><![CDATA[椰子大叔心中的异次元空间]]></title>
   <link href="http://yezidashu.github.com/atom.xml" rel="self"/>
   <link href="http://yezidashu.github.com/"/>
-  <updated>2013-02-22T22:17:15+08:00</updated>
+  <updated>2013-02-22T22:39:31+08:00</updated>
   <id>http://yezidashu.github.com/</id>
   <author>
     <name><![CDATA[Mr.Coconut]]></name>
@@ -14,20 +14,20 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Chinese2]]></title>
+    <link href="http://yezidashu.github.com/blog/2013/02/22/chinese2/"/>
+    <updated>2013-02-22T22:38:00+08:00</updated>
+    <id>http://yezidashu.github.com/blog/2013/02/22/chinese2</id>
+    <content type="html"><![CDATA[<p>中文测试</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Test]]></title>
     <link href="http://yezidashu.github.com/blog/2013/02/22/test/"/>
     <updated>2013-02-22T21:14:00+08:00</updated>
     <id>http://yezidashu.github.com/blog/2013/02/22/test</id>
     <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Chinese]]></title>
-    <link href="http://yezidashu.github.com/blog/2013/02/22/chinese/"/>
-    <updated>2013-02-22T00:00:00+08:00</updated>
-    <id>http://yezidashu.github.com/blog/2013/02/22/chinese</id>
-    <content type="html"><![CDATA[<p>﻿中文测试~</p>
 ]]></content>
   </entry>
   
